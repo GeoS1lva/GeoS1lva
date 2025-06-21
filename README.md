@@ -22,9 +22,8 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
-![GeoS1lva's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoS1lva&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoS1lva&layout=compact&theme=tokyonight)
 
 ---
